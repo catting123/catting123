@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   
-### 📈 Github Stats
+### 📈 Github Statistics
 
 <a href="https://github.com/catting123/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=catting123&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true&bg_color=00000000" alt="Catting's github stats" /></a><a href="https://github.com/catting123/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catting123&layout=compact&theme=nightowl&hide_border=true&bg_color=00000000" /></a>
 
