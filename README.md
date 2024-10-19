@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/catting123/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=catting123&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true&bg_color=00000000" alt="Catting's github stats" /></a><a href="https://github.com/catting123/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catting123&layout=compact&theme=nightowl&hide_border=true&bg_color=00000000" /></a>
 
-### 🐍 Gluttonous Snake
+### 🐍 Contributions
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/catting123/catting123/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/catting123/catting123/output/github-contribution-grid-snake.svg">
