@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **catting123/catting123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=catting123)](https://github.com/anuraghazra/github-readme-stats)
+### 📈 Github Stats
+
+<img align="center"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=catting123&show_icons=true&theme=tokyonight"/>
+
+### 
+
+<img align="center"  alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=catting123.catting123&left_color=green&right_color=red"/>
