@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 
 ### 📈 Github Statistics
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=catting123&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true&bg_color=00000000" alt="Catting's github stats" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catting123&layout=compact&theme=nightowl&hide_border=true&bg_color=00000000" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=catting123&show_icons=true&theme=nightowl&hide_border=true&bg_color=00000000" alt="Catting's github stats" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catting123&layout=compact&theme=nightowl&hide_border=true&bg_color=00000000" />
 
 <div align="center">
