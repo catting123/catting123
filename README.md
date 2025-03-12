@@ -16,19 +16,9 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-# 👋 很高兴遇见你  Glad to meet you 😉
-
-
-### 📅 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/catting123/catting123/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/catting123/catting123/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/catting123/catting123/output/github-contribution-grid-snake.svg">
-</picture>
-
+# 👋 Glad to meet you 😉
 ### 📈 Github Statistics
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=catting123&show_icons=true&theme=nightowl&hide_border=true&bg_color=00000000" alt="Catting's github stats" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catting123&layout=compact&theme=nightowl&hide_border=true&bg_color=00000000" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=catting123&show_icons=true&theme=transparentl&hide_border=true&bg_color=00000000" alt="Catting's github stats" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catting123&layout=compact&theme=transparent&hide_border=true&bg_color=00000000" />
 
 <div align="center">
