@@ -14,11 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
 
-# 👋 Glad to meet you 😉
-### 📈 Github Statistics
+# Hello, I am Catting 👋
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=catting123&show_icons=true&theme=transparentl&hide_border=true&bg_color=00000000" alt="Catting's github stats" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catting123&layout=compact&theme=transparent&hide_border=true&bg_color=00000000" />
+### 🏫 Education
 
-<div align="center">
+* 2021-2025, OUC, Intelligent Science and Technology
+* 2025-present, PKU, Computer Science and Technology
+
+### 🏢 Internship
+
+* 2024-present, Sony, Computer Vision
+
+### Language
+
+* C/C++, Python, Java
+
+### 📈 Statistics
+
+![Catting's github stats](https://github-readme-stats.vercel.app/api?username=catting123&show_icons=true&theme=transparentl&hide_border=true&bg_color=00000000)
