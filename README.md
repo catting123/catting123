@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 ### 🏫 Education
 
-* 2021-2025, OUC, Intelligent Science and Technology
-* 2025-present, PKU, Computer Science and Technology
+* 2021-2025, Ocean University of China, Intelligent Science and Technology
+* 2025-present, Peking University, Computer Science and Technology
 
 ### 🏢 Internship
 
