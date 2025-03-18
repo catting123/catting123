@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 * 2024-present, Sony, Computer Vision
 
-### Language
+### 💻 Language
 
 * C/C++, Python, Java
 
