@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### 🏢 Internship
 
-* 2024-present, Sony, Computer Vision
+* 2024-2025, Sony, Computer Vision
 
 ### 💻 Language
 
