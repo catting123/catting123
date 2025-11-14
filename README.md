@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 
 ### 📈 Statistics
 
-![Catting's github stats](https://github-readme-stats.vercel.app/api?username=catting123&show_icons=true&theme=transparentl&hide_border=true&bg_color=00000000)
+![Catting's GitHub stats](https://github-readme-stats.vercel.app/api?username=catting123)](https://github.com/anuraghazra/github-readme-stats)
