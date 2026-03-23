@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 ### 🏫 Education
 
 * 2021-2025, Ocean University of China, Intelligent Science and Technology
-* 2025-2026, Peking University, Computer Science and Technology
 
 ### 🏢 Internship
 
